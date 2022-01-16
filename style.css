@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+header {
+border: 5px solid blue;
+border-radius: 10px;
+}
+header a{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    text-decoration: blue;
+}
+main h1{
+    border:5px solid blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    color: gold;
+}
+footer p{
+    border: 5px solid palegoldenrod;
+    margin: -2px;
+}
+nav{
+    background-color: green;
+    text-align: center;
+    border-radius: 5px;
+}
+nav a{
+    color: white;
+    text-decoration: green;
+    
+}
+.fon{
+    background-color: greenyellow;
+}
+main h2{
+    color: royalblue;
+}
+.bor{
+    border: 2px solid slateblue;
+}
